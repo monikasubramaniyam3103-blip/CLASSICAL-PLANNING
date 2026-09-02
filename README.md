@@ -114,8 +114,8 @@ print(plan)
 ~~~
 
 
+#OUTPUT
 
-</h2>OUTPUT</h2>
 
 <img width="929" height="443" alt="Screenshot 2026-09-02 083954" src="https://github.com/user-attachments/assets/418fa80a-c55a-415d-8dc7-8ff80ab0c28b" />
 
