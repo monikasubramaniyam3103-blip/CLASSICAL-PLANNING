@@ -111,11 +111,10 @@ actions = {
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 
-~~~
-
 </h2>OUTPUT</h2>
 
-<img width="929" height="443" alt="image" src="https://github.com/user-attachments/assets/679135ca-7c2b-4bff-a7c5-1de529d83b5c" />
+<img width="929" height="443" alt="Screenshot 2026-09-02 083954" src="https://github.com/user-attachments/assets/344ae5a9-2d64-4b70-b93f-2087fd497980" />
+
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
