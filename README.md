@@ -111,10 +111,13 @@ actions = {
 
 plan = find_plan(initial_state, goal_state, actions)
 print(plan)
+~~~
+
+
 
 </h2>OUTPUT</h2>
 
-<img width="929" height="443" alt="Screenshot 2026-09-02 083954" src="https://github.com/user-attachments/assets/344ae5a9-2d64-4b70-b93f-2087fd497980" />
+<img width="929" height="443" alt="Screenshot 2026-09-02 083954" src="https://github.com/user-attachments/assets/418fa80a-c55a-415d-8dc7-8ff80ab0c28b" />
 
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
